@@ -10,7 +10,16 @@ a{
 }
 h3{
   color: #f002e5;
+  width: 50%;
+  border: 3px Solid blue;
 }
 li{
   color: blue;
+  font-family:cursive,sans-serif,monospace;
+  font-weight: bold;
+  font-size: 20px;
+  border: 3px Solid blue ;
+  background-color: yellow;
+  width: 50%;
+  text-align:center;
 }
